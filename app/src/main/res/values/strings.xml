@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FoldingCellAndroidDemo</string>
+
+    <string name="content_area_barcelona">地區︰西班牙</string>
+    <string name="content_area_florence">地區︰義大利</string>
+    <string name="content_area_luang_prabang">地區︰寮國</string>
+    <string name="content_area_rome">地區︰義大利</string>
+    <string name="content_area_san_miguel_de_allende">地區︰墨西哥</string>
+    <string name="content_area_ubud">地區︰印尼</string>
+
+    <string name="content_introduction_barcelona">介紹︰熱情奔放的巴賽隆納，是西班牙最熱門的旅遊城市，地中海型的氣候，全年氣溫舒適怡人，通常處在攝氏20度上下，還曾被國家地理雜誌評選為全球50個必訪城市之一。</string>
+    <string name="content_introduction_florence">介紹︰佛羅倫斯是義大利中部大城，曾經長期處於傳奇的麥迪奇家族控制之下，是歐洲中世紀重要的文化、商業和金融中心。佛羅倫斯的美連徐志摩都拜倒其下，徐志摩在佛羅倫斯時，因飽覽當地的湖山之勝，因而觸發內心美的悸動，並寫下了《翡冷翠的一夜》及《翡冷翠山居閒話》兩篇散文。</string>
+    <string name="content_introduction_luang_prabang">介紹︰龍坡邦從14世紀起，就是是瀾滄王朝的首都，歷史悠久，生活步調悠閒；小城裡有一棟棟法國殖民時期留下的別墅和佛寺， 1995年時登錄為世界遺產，被譽為是東南亞歷史保存最好的城市。</string>
+    <string name="content_introduction_rome">介紹︰羅馬的魅力無須贅言，他是義大利的政治、經濟、文化和交通中心、是世界的歷史文化名城、是古羅馬文明的發源地，因建城歷史悠久並保存大量古蹟而被稱為「永恆之城」，全世界的遊客都無法抗拒他的吸引力。</string>
+    <string name="content_introduction_san_miguel_de_allende">介紹︰聖米格爾德阿連德是墨西哥中部的城市，有許多傑出的混合墨西哥當地風格和巴洛克風格的建築。由於地理位置的關係，使得這裡成為了西班牙人、克里奧爾人與印地安人的文化大熔爐。</string>
+    <string name="content_introduction_ubud">介紹︰烏布位於印尼知名旅遊島嶼峇里島的北邊，森林和梯田是烏布的特色，氣候不但峇里島海邊炎熱，觀光客人潮也沒那麼多，許多位在山谷裡的Villa，更是想要擁有寧靜假期的遊客首選。</string>
+</resources>
